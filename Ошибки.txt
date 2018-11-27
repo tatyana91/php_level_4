@@ -1,0 +1,1 @@
+Fatal error: Access level to NumbersSquared::next() must be public (as in class Iterator) in C:\OSPanel\domains\php4.loc\iterator\NumbersSquared.php on line 2
